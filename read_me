@@ -1,0 +1,5 @@
+Not all python version work with refinitiv packages
+version 3.12 does not seem to work
+
+2 versions: desktop and platform
+for desktop (standard) workspace app needs to be open and logged in
