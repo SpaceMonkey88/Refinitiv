@@ -1,0 +1,22 @@
+{
+  "logs": {
+    "level": "debug",
+    "transports": {
+      "console": {
+        "enabled": false
+      },
+      "file": {
+        "enabled": false,
+        "name": "/home/jovyan/__RefinitivDataLibrary/logs/refinitiv-data-lib.log"
+      }
+    }
+  },
+  "sessions": {
+    "default": "desktop.codebook",
+    "desktop": {
+      "codebook": {
+        "app-key": "DEFAULT_CODE_BOOK_APP_KEY"
+      }
+    }
+  }
+}
